@@ -6,15 +6,13 @@ Parameter efficient fine tuning methods are a series of techniques that allow us
 
 In this repo we demonstrate using LoRA [Low Rank Adapation of Large Language Models](https://arxiv.org/abs/2106.09685) on the 3B parameter RedPajama Instruct Model.
 
-## Getting Started
-
-Install all the requirements
-
-`pip install -r requirements.txt`
-
 ## Training
 
-To run finetuning `cog run CUDA_SET_VISIBLE_DEVICES=0 python train.py`
+Nvidia T4 ~ 2hrs ($1.50) to fine tune
+Nvidia A10G ~ 45min (total $0.90) to fine tune
+Nvidia A100 ~ 45min (total $3.37) to fine tune
+
+To run finetuning `cog run python train.py`
 
 For this example, we're going to be training on a dataset of shortes path between U.S Cities.
 The dataset looks something like this

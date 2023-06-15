@@ -8,16 +8,16 @@ In this repo we demonstrate using LoRA [Low Rank Adapation of Large Language Mod
 
 ## Setup
 
-[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g2-standard-4&diskStorage=250Gi&region=us-west1&image=https://www.googleapis.com/compute/v1/projects/brevdevprod/zones/us-west1-b/disks/anythingbutwrappers-l4-inst-2qdcc0rpz7nyqkgwfsxg9xktbxy)
+[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g2-standard-4&diskStorage=250Gi)
 Nvidia L4 ~ 1hr ($0.85) to fine tune
 
-[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g5.xlarge&diskStorage=250Gi&region=us-west-2)
+[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g5.xlarge&diskStorage=250Gi)
 Nvidia A10G ~ 45min (total $0.90) to fine tune
 
-[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g4dn.xlarge&diskStorage=250Gi&region=us-west-2)
+[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g4dn.xlarge&diskStorage=250Gi)
 Nvidia T4 ~ 2hrs ($1.50) to fine tune
 
-[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=a2-highgpu-1g&diskStorage=250Gi&region=us-west1&image=https://www.googleapis.com/compute/v1/projects/brevdevprod/zones/us-west1-b/disks/anythingbutwrappers-a100-inst-2qatbhrmtv13tqwsvfwbgupcsrk)
+[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=a2-highgpu-1g&diskStorage=250Gi)
 Nvidia A100 ~ 45min (total $3.37) to fine tune
 
 Once in the machine run:

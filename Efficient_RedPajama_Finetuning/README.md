@@ -8,9 +8,6 @@ In this repo we demonstrate using LoRA [Low Rank Adapation of Large Language Mod
 
 ## Setup
 
-[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g2-standard-4&diskStorage=250Gi)
-Nvidia L4 ~ 1hr ($0.85) to fine tune
-
 [![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=5snmxykkz&us=oit0rfks&repo=https://github.com/theFong/AnythingButWrappers&instance=g5.xlarge&diskStorage=250Gi)
 Nvidia A10G ~ 45min (total $0.90) to fine tune
 
